@@ -12,13 +12,12 @@ docs(w01): 연습 문제 풀이 <이름>
 <summary>예시 보기</summary>
 
 ```
-docs(w01): 연습 문제 풀이 <김동주>
+docs(w01): 연습 문제 풀이 <서동혁>
 ```
 
 </details>
 
 # 연습 문제
-
 > Q. 처음 저장소를 Clone 하면 모든 파일은 Untracked이면서 Unmodified 상태이다. (Y/N) N
 
 > Q. Git은 순수한 델타 기반 버전 관리 시스템이다. (Y/N) N
